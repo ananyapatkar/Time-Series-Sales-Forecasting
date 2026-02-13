@@ -39,7 +39,7 @@ Holt-Winters Exponential Smoothing
 - Additive Trend
 - Additive Seasonality
 - Seasonal Period = 12
-- 
+
 ## Performance Metrics
 - MAE (Mean Absolute Error)
 - MAPE (Mean Absolute Percentage Error)
